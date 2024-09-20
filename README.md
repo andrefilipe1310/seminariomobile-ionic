@@ -17,9 +17,16 @@ npm install -g @ionic/cli
 
 ## Executar o Projeto
 
-1. **Clone o repositório**: Esse comando copia o projeto do GitHub para o computador do usuário.
-2. **Navegue até o diretório**: Instrui o usuário a acessar o diretório onde o projeto foi clonado.
-3. **Instale as dependências**: Esse comando instala as bibliotecas e pacotes necessários para rodar o projeto.
-4. **Execute o projeto**: O comando `ionic serve` inicia o servidor de desenvolvimento.
-5. **Acesso no navegador**: Informa ao usuário onde ele pode acessar o projeto rodando localmente.
+Clone este repositório:
+
+bash git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+Navegue até o diretório do projeto:
+bash cd nome-do-repositorio
+
+Instale as dependências:
+bash npm install
+
+Execute o aplicativo:
+bash ionic serve
 
