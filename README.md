@@ -4,8 +4,8 @@ Este repositório contém a apresentação e um exemplo de código para o semin�
 
 ## Conteúdo
 
-- **Apresentação**: [seminario-ionic.pdf](apresentacao/framework-ionic.pdf)
-- **Exemplo de Código**: [Código de exemplo](codigo-exemplo/pokemon-APP/pokemonGO/)
+- **Apresentação**: [seminario-ionic.pdf](https://github.com/andrefilipe1310/seminariomobile-ionic/tree/main/aprensentacao)
+- **Exemplo de Código**: [Código de exemplo](https://github.com/andrefilipe1310/seminariomobile-ionic/tree/main/codigo-exemplo)
 
 ## Requisitos
 
