@@ -11,11 +11,13 @@ Este repositório contém a apresentação e um exemplo de código para o semin�
 
 Para rodar o código de exemplo, você precisará do **Node.js** instalado e do Ionic CLI:
 
+## Executar
+
 ```bash
 npm install -g @ionic/cli
 
 
-## Executar o Projeto
+
 
 Clone este repositório:
 
